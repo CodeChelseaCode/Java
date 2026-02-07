@@ -1,6 +1,6 @@
 /*
-*      Question - Write a Hello World Program in Java
-*       By Chelsea Rice
+    Question - Write a Hello World Program in Java
+        Solved By Chelsea Rice
 */
 
 public class question1{
